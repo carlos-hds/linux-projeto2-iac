@@ -1,4 +1,4 @@
-# Linux projeto1 IaC v2
+# Linux projeto2 IaC v2
 
 ### Repositório para Script criado no projeto do Bootcamp Linux do Zero da DIO.
 
